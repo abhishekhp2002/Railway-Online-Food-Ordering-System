@@ -59,15 +59,8 @@ CREATE TABLE `seller_information_1` (
 --
 
 INSERT INTO `seller_information_1` (`delivery_person_id`, `name`, `Number`, `Email`, `password`, `train_name`) VALUES
-(1, 'gurukiran', 9900112233, 'gurukiran123@gmail.com', 'gurukiran', 'Manglore Express'),
-(2, 'gagan', 9988776655, 'gagan234@gmail.com', 'gaganSL', 'Banglore Express'),
-(3, 'abhishekterani', 7744112233, 'abhishekterani567@gmail.c', 'abhishekterani', 'Manglore Express'),
-(19, 'parameesh h', 9902301254, 'paramesh765@gmail.com', 'paramesh999640', ''),
-(20, 'jeevan H S', 9912345678, 'jeevanhs234@gmail.com', 'jeevan', ''),
-(21, 'abhi', 995645, 'abhishek234@gmail.com', 'abhi', ''),
-(22, 'jeevan', 99887766, 'jeevan123@gmail.com', 'jeevan123', ''),
-(23, 'jeevan hs1', 998877, 'jeevanhs123@gmail.com', 'jeevanhs', ''),
-(24, 'terani', 9988776655, 'terani123@gmail.com', 'terani', '');
+(1, 'abcd', 9900112233, 'abcd@gmail.com', 'abcd', 'Manglore Express');
+
 
 --
 -- Indexes for dumped tables
